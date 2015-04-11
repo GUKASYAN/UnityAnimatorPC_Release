@@ -1,0 +1,58 @@
+Initialize engine version: 4.5.3f3 (fca41a4fabea)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Mobile Intel(R) 4 Series Express Chipset Family (ID=0x2a42)
+    Vendor:   Intel
+    VRAM:     64 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Study\WORK\nikki.com\TestTask_Gukasyan\UnityAnimatorPC_Release\UnityAnimator2D_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Study\WORK\nikki.com\TestTask_Gukasyan\UnityAnimatorPC_Release\UnityAnimator2D_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Study\WORK\nikki.com\TestTask_Gukasyan\UnityAnimatorPC_Release\UnityAnimator2D_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Study\WORK\nikki.com\TestTask_Gukasyan\UnityAnimatorPC_Release\UnityAnimator2D_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.160 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\Study\WORK\nikki.com\TestTask_Gukasyan\UnityAnimatorPC_Release\UnityAnimator2D_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Study\WORK\nikki.com\TestTask_Gukasyan\UnityAnimatorPC_Release\UnityAnimator2D_Data\Managed\System.dll (this message is harmless)
+Saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Loaded
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Loaded
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Loaded
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Loaded
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Loaded
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
